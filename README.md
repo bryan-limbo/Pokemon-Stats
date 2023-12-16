@@ -12,6 +12,6 @@ The data is from [Kaggle](https://www.kaggle.com/datasets/rounakbanik/pokemon). 
 - Jupyter Notebook: Scripts containing the steps taken to wrangle and clean the data.
 - Tableau: Used to build an interactive storyboard showing Pokemon types, statistics, and general information. Users can select a specific Pokemon from the drop-down menu, changing the information displayed.
 
-## Storyboard
+## Results
 
 Link to the [storyboard.](https://public.tableau.com/shared/YTDTYCDM9?:display_count=n&:origin=viz_share_link)
