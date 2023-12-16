@@ -14,4 +14,4 @@ The data is from [Kaggle](https://www.kaggle.com/datasets/rounakbanik/pokemon). 
 
 ## Results
 
-Link to the [storyboard.](https://public.tableau.com/shared/YTDTYCDM9?:display_count=n&:origin=viz_share_link)
+Link to the [storyboard.](https://public.tableau.com/shared/4W3HN65WJ?:display_count=n&:origin=viz_share_link)
